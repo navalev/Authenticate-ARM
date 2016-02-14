@@ -5,6 +5,7 @@ This **very** simple c# console application issues REST calls to create an Azure
 ### Use this sample
 
 Clone this repository and build the code. The console app will request for 3 input parameters:
+
 1. Your Azure AD tenant ID
 2. You Azure AD user name
 3. Full path to the [Application.json](Application.json) file located in this repository
