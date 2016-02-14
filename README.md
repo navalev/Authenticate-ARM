@@ -10,4 +10,5 @@ Clone this repository and build the code. The console app will request for 3 inp
 2. You Azure AD user name
 3. Full path to the [Application.json](Application.json) file located in this repository
 
+ [Application.json](Application.json) - this file describes the application to be created (name, url, and allowed roles). 
 
